@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "91F1CD14-A2F6-4C6E-9864-4DC3A452910B"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "857A8E00-4FC9-491F-A41E-A6850DB76E80"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoogleSignInDemo/ViewController/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "googleSignInBtnAction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "857A8E00-4FC9-491F-A41E-A6850DB76E80 - a21875078d01f4b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.GIDSignInResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in GoogleSignInDemo.ViewController.googleSignInBtnAction(Any) -&gt; ()"
+                  moduleName = "GoogleSignInDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xceltec-126/Downloads/GoogleSignInDemo/GoogleSignInDemo/ViewController/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "298">
+               </Location>
+               <Location
+                  uuid = "857A8E00-4FC9-491F-A41E-A6850DB76E80 - a21875078d01f4b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.GIDSignInResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in GoogleSignInDemo.ViewController.googleSignInBtnAction(Any) -&gt; ()"
+                  moduleName = "GoogleSignInDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xceltec-126/Downloads/GoogleSignInDemo/GoogleSignInDemo/ViewController/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "566">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1495FB3-8C37-487B-963E-D80A48E34D0D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoogleSignInDemo/SplashVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "navigationForLogin()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B1495FB3-8C37-487B-963E-D80A48E34D0D - 7f2cb3ddad54aafb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GoogleSignInDemo.SplashVC.navigationForLogin() -&gt; ()"
+                  moduleName = "GoogleSignInDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xceltec-126/Downloads/GoogleSignInDemo/GoogleSignInDemo/SplashVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1023">
+               </Location>
+               <Location
+                  uuid = "B1495FB3-8C37-487B-963E-D80A48E34D0D - 7f2cb3ddad54aafb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GoogleSignInDemo.SplashVC.navigationForLogin() -&gt; ()"
+                  moduleName = "GoogleSignInDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xceltec-126/Downloads/GoogleSignInDemo/GoogleSignInDemo/SplashVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74E5BF0B-8C9C-45FB-9CE3-5219D08B83AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoogleSignInDemo/SplashVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "navigationForLogin()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "74E5BF0B-8C9C-45FB-9CE3-5219D08B83AE - 7f2cb3ddad54aa9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GoogleSignInDemo.SplashVC.navigationForLogin() -&gt; ()"
+                  moduleName = "GoogleSignInDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xceltec-126/Downloads/GoogleSignInDemo/GoogleSignInDemo/SplashVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1518">
+               </Location>
+               <Location
+                  uuid = "74E5BF0B-8C9C-45FB-9CE3-5219D08B83AE - 7f2cb3ddad54aa9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GoogleSignInDemo.SplashVC.navigationForLogin() -&gt; ()"
+                  moduleName = "GoogleSignInDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xceltec-126/Downloads/GoogleSignInDemo/GoogleSignInDemo/SplashVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1623">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98B3896B-098D-4F09-81C6-582D9BECF496"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoogleSignInDemo/SplashVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C996F10C-81E4-4FBF-9809-D96ACFF4B876"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoogleSignInDemo/ViewController/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "googleSignInBtnAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4259CC0-9DF9-484D-9537-0E641E84E8C5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoogleSignInDemo/ViewController/ProfileVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "signOutBtnAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4EA1C6DF-DD3D-44AD-9D76-5C85C03DC84B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoogleSignInDemo/ViewController/ProfileVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
